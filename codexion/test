@@ -1,0 +1,35 @@
+Start: 1789577925429 ms
+0 Coder 1 started
+0 Coder 1 wants dongles
+0 Coder 2 started
+0 Coder 2 wants dongles
+0 Coder 3 started
+0 Coder 3 wants dongles
+0 Coder 4 started
+0 Coder 4 wants dongles
+0 Coder 5 started
+0 Coder 5 wants dongles
+1 Coder 1 got dongles
+1 Coder 1 is compiling
+201 Coder 1 comiled (1/3)
+201 Coder 1 debugging
+401 Coder 1 refactoring
+601 Coder 1 wants dongles
+601 Coder 2 got dongles
+601 Coder 2 is compiling
+800 Coder 2 burned out
+800 Coder 4 burned out
+800 Coder 3 burned out
+800 Coder 5 burned out
+801 Coder 1 got dongles
+801 Coder 1 is compiling
+1001 Coder 1 comiled (2/3)
+1001 Coder 1 debugging
+1201 Coder 1 refactoring
+1401 Coder 1 wants dongles
+1401 Coder 1 got dongles
+1401 Coder 1 is compiling
+1601 Coder 1 comiled (3/3)
+1601 Coder 1 debugging
+1801 Coder 1 refactoring
+End: 1789577927430 ms
